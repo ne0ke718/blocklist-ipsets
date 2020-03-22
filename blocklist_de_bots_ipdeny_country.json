@@ -1,0 +1,46 @@
+[
+	{
+		"code": "BZ",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 1
+	},
+	{
+		"code": "CZ",
+		"value": 1
+	},
+	{
+		"code": "DE",
+		"value": 15
+	},
+	{
+		"code": "KE",
+		"value": 1
+	},
+	{
+		"code": "MD",
+		"value": 1
+	},
+	{
+		"code": "MM",
+		"value": 1
+	},
+	{
+		"code": "PA",
+		"value": 2
+	},
+	{
+		"code": "RU",
+		"value": 12
+	},
+	{
+		"code": "US",
+		"value": 1
+	},
+	{
+		"code": "ZA",
+		"value": 2
+	}
+]
